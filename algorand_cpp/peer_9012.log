@@ -1,0 +1,128 @@
+Running algorand. Round: 1, Send Fds: 5, Receive Fds: 5
+Bytes read: 158
+Sortition. Role: 1, hash: 32, proof: 81
+Selected for block proposal for round: 1
+Vrf seed. Bytes sent: 214
+Bytes read: 158
+Seed generated. Round: 1, seed: 32, seed proof: 81
+Peer priority: fd2ee1ec0970c30741183a8bc8587e8a64b58942e8a3ca94205c902de68f8827
+Sending TCP Priority Msg. Header Bytes: 8, Msg Bytes: 225, Final Msg Bytes: 233
+Number of priority msgs received: 5
+Max Priority received: fd2ee1ec0970c30741183a8bc8587e8a64b58942e8a3ca94205c902de68f8827
+[Peer] Sending TCP Block Msg. Header Bytes: 8, Msg Bytes: 574, Final Msg Bytes: 582
+Sent Block Msg
+Proposed block: ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e
+BA* initiated with ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e
+executing reduction step one
+Bytes read: 158
+Sortition. Role: COMMITTEE11000, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 1000, hash: 32, proof: 81
+Counting votes for round: 1, step: 1000, number of msgs: 5
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Round: 1Step: 1000Value: ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e, Votes received: 34, threshold: 12
+executing reduction step two
+Bytes read: 158
+Sortition. Role: COMMITTEE11001, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 1001, hash: 32, proof: 81
+Counting votes for round: 1, step: 1001, number of msgs: 5
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Round: 1Step: 1001Value: ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e, Votes received: 28, threshold: 12
+Reduction value: ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e
+Initiated binary BA with ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e
+Bytes read: 158
+Sortition. Role: COMMITTEE11, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 1, hash: 32, proof: 81
+Counting votes for round: 1, step: 1, number of msgs: 5
+Sending verify sortitionr request. pk: 32, proof: 81, m: 75
+Verify sortition request size: 242
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 75
+Verify sortition request size: 242
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 75
+Verify sortition request size: 242
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 75
+Verify sortition request size: 242
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 75
+Verify sortition request size: 242
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Round: 1Step: 1Value: ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e, Votes received: 37, threshold: 12
+Bytes read: 158
+Sortition. Role: COMMITTEE12, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 2, hash: 32, proof: 81
+Bytes read: 158
+Sortition. Role: COMMITTEE13, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 3, hash: 32, proof: 81
+Bytes read: 158
+Sortition. Role: COMMITTEE14, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 4, hash: 32, proof: 81
+Bytes read: 158
+Sortition. Role: COMMITTEE11002, hash: 32, proof: 81
+Selected for committe vote for round: 1, step: 1002, hash: 32, proof: 81
+Counting votes for round: 1, step: 1002, number of msgs: 5
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Sending verify sortitionr request. pk: 32, proof: 81, m: 78
+Verify sortition request size: 245
+Verify sortition bytes read: 12
+Verification sortition response: Success:true
+Round: 1Step: 1002Value: ccc67e1e752c69dfc2a7b63a2447a617b8924480ba86ff69ffbc4a92883ad62e, Votes received: 24, threshold: 8

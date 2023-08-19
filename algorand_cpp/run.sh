@@ -1,0 +1,1 @@
+rm peer_* transport_* && ./run
